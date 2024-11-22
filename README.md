@@ -1,4 +1,4 @@
-# E-commerce API
+### E-commerce API
 
 Jest to RESTful API zbudowane w oparciu o Node.js i Express dla platformy e-commerce. API umożliwia zarządzanie użytkownikami i produktami.
 
@@ -9,7 +9,7 @@ Jest to RESTful API zbudowane w oparciu o Node.js i Express dla platformy e-comm
 - Integracja z bazą danych MongoDB
 - Uwierzytelnianie użytkowników za pomocą tokenów JWT
 
-# Endpointy
+## Endpointy
 - Użytkownicy
    - POST /api/users/register - Rejestracja nowego użytkownika
    - POST /api/users/login - Logowanie użytkownika i otrzymanie tokena JWT
@@ -18,7 +18,7 @@ Jest to RESTful API zbudowane w oparciu o Node.js i Express dla platformy e-comm
    - POST /api/products - Dodaj nowy produkt
    - PUT /api/products/:id - Zaktualizuj produkt po ID
    - DELETE /api/products/:id - Usuń produkt po ID
-# Technologie
+## Technologie
 - Node.js
 - Express.js
 - MongoDB (z Mongoose)
