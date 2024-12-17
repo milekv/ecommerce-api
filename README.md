@@ -1,6 +1,6 @@
 ### E-commerce API
 
-Jest to prosty RESTful API zbudowane w oparciu o Node.js i Express dla platformy e-commerce. 
+RESTful API zbudowane w oparciu o Node.js i Express dla platformy e-commerce. 
 API umożliwia zarządzanie użytkownikami i produktami.
 
 ## Funkcje
